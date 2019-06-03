@@ -1,6 +1,5 @@
 
-def annoying levitation_quiz
-  loop do
+def levitation_quiz
   
 	puts "What is the spell that enacts levitation?"
 	
